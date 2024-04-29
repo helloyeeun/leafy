@@ -8,6 +8,7 @@ on:
     paths:
       - 'leafy-backend/**'
       #test 
+      #back
       
 jobs:
   build-and-push:

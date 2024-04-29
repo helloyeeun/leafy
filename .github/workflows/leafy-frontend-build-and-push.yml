@@ -8,6 +8,7 @@ on:
     paths:
       - 'leafy-frontend/**'
       #test
+      #front
 
 jobs:
   build-and-push:
